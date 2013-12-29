@@ -1,0 +1,7 @@
+rb-sandbox
+===
+
+Random experiments with forking, blocks, threads, and other stuff in Ruby.
+
+
+
